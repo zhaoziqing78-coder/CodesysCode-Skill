@@ -183,6 +183,3 @@ pypdf
 3. 找到 'document-skills' 包
 4. 安装 'pdf' Skill
 5. 重启 WorkBuddy
-3.3 Python 依赖
-pdf Skill 需要以下 Python 包，WorkBuddy 在首次使用时会自动安装。如需手动安装，执行：
-# 
