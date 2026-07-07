@@ -10,30 +10,14 @@ Skill 数量
 3 个（1 个自定义 + 2 个内置）
 难度 
 简单 — 复制文件夹 + 市场安装
-WorkBuddy CODESYS 能力 Skill 安装指南    |    第 2 页
-目录
-序号 
-章节 
-页码
-1 
+WorkBuddy CODESYS 能力 Skill 安装指南    
 概述：哪些 Skill 构成了 CODESYS 开发能力 
-3
-2 
 Skill 一：codesys-development（自定义 Skill） 
-4
-3 
 Skill 二：pdf（市场内置） 
-7
-4 
 Skill 三：skill-creator（内置） 
-8
-5 
 安装清单与快速部署 
-9
-6 
 验证测试与故障排查 
-10
-WorkBuddy CODESYS 能力 Skill 安装指南    |    第 3 页
+WorkBuddy CODESYS 能力 Skill 安装指南  
 1. 概述：哪些 Skill 构成了 CODESYS 开发能力
 当你在 WorkBuddy 中提出 CODESYS PLC 编程需求时，相关的回答能力由两部分构成：底层 AI 模型
 + 已安装的 Skill。要在另一台新装的 WorkBuddy 上完整复现这套能力，必须部署以下 3 个
